@@ -1,0 +1,30 @@
+body{
+    background-color: black;
+}
+
+p {
+    color: red;
+}
+
+/* this is the navigation bar. its sizing should expand based on the elements within, although it is currently set to take up the center third. */
+#navigation-bar-box{
+    background-color: maroon;
+    color: rgb(255, 255, 70);
+    width: auto;
+    margin: 0px 33% 0px 33%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    display: flex;
+    /*this spaces the content evenly*/
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.navbar-link{
+    padding: 20px;
+}
+
+
+#navigation-bar-box a:any-link {
+    color: lightgoldenrodyellow;
+}
