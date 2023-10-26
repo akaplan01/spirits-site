@@ -1,0 +1,14 @@
+body{
+    background-color: black;
+}
+
+#under-construction{
+    color:red;
+    margin: auto;
+    padding: 50px;
+}
+
+.social-logo{
+    width: 100%;
+    max-width: 64px;
+}
