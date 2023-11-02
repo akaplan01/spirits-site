@@ -1,0 +1,14 @@
+body {
+    background-color: black;
+    color: red;
+}
+
+#login-form {
+    width: auto;
+    margin: 15% 33% 0% 33%;
+}
+
+#centered-form-elements {
+    width: auto;
+    padding: 0% 30% 0% 30%;
+}
